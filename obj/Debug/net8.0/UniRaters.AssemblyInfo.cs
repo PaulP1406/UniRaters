@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniRaters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a20da0e86162ca0f3c8429641cab3e366e169b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6c96485cf2fcdfbb5646a0f1bb3ae31b212710b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniRaters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniRaters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
